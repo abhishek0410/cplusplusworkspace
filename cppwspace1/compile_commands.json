@@ -1,0 +1,13 @@
+[{
+  "file": "/home/abhishek/Desktop/cplusplusworkspace/cppwspace1/proj3/main.cpp",
+  "directory": "/home/abhishek/Desktop/cplusplusworkspace/cppwspace1/proj3",
+  "command": "clang  -c /home/abhishek/Desktop/cplusplusworkspace/cppwspace1/proj3/main.cpp -o /home/abhishek/Desktop/cplusplusworkspace/cppwspace1/proj3/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/abhishek/Desktop/cplusplusworkspace/cppwspace1/proj1/main.cpp",
+  "directory": "/home/abhishek/Desktop/cplusplusworkspace/cppwspace1/proj1",
+  "command": "clang  -c /home/abhishek/Desktop/cplusplusworkspace/cppwspace1/proj1/main.cpp -o /home/abhishek/Desktop/cplusplusworkspace/cppwspace1/proj1/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/abhishek/Desktop/cplusplusworkspace/cppwspace1/proj2/main.cpp",
+  "directory": "/home/abhishek/Desktop/cplusplusworkspace/cppwspace1/proj2",
+  "command": "clang  -c /home/abhishek/Desktop/cplusplusworkspace/cppwspace1/proj2/main.cpp -o /home/abhishek/Desktop/cplusplusworkspace/cppwspace1/proj2/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]

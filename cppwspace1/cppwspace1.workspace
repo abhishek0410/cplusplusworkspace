@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cppwspace1" Database="" Version="10.0.0">
+  <Project Name="proj1" Path="proj1/proj1.project" Active="No"/>
+  <Project Name="proj2" Path="proj2/proj2.project" Active="No"/>
+  <Project Name="proj3" Path="proj3/proj3.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="proj1" ConfigName="Debug"/>
+      <Project Name="proj2" ConfigName="Debug"/>
+      <Project Name="proj3" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="proj1" ConfigName="Release"/>
+      <Project Name="proj2" ConfigName="Release"/>
+      <Project Name="proj3" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
